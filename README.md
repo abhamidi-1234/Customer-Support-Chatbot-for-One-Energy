@@ -32,27 +32,35 @@ A Utility 2.0 company:
 ## Sample conversations
 
 ![Img](https://github.com/abhamidi-1234/Customer-Support-Chatbot-for-One-Energy/blob/main/Capture1.PNG)
-
+&nbsp;
+&nbsp;
 
 ![Img](https://github.com/abhamidi-1234/Customer-Support-Chatbot-for-One-Energy/blob/main/Capture2.PNG)
-
+&nbsp;
+&nbsp;
 
 ![Img](https://github.com/abhamidi-1234/Customer-Support-Chatbot-for-One-Energy/blob/main/Capture3.PNG)
-
+&nbsp;
+&nbsp;
 
 ![Img](https://github.com/abhamidi-1234/Customer-Support-Chatbot-for-One-Energy/blob/main/Capture4.PNG)
-
+&nbsp;
+&nbsp;
 
 ![Img](https://github.com/abhamidi-1234/Customer-Support-Chatbot-for-One-Energy/blob/main/Capture5.PNG)
-
+&nbsp;
+&nbsp;
 
 ![Img](https://github.com/abhamidi-1234/Customer-Support-Chatbot-for-One-Energy/blob/main/Capture6.PNG)
-
+&nbsp;
+&nbsp;
 
 ![Img](https://github.com/abhamidi-1234/Customer-Support-Chatbot-for-One-Energy/blob/main/Capture7.PNG)
-
+&nbsp;
+&nbsp;
 
 ![Img](https://github.com/abhamidi-1234/Customer-Support-Chatbot-for-One-Energy/blob/main/Capture8.PNG)
+&nbsp;
 
 ## Next steps
 
