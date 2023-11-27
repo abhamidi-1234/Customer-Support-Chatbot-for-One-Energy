@@ -75,9 +75,17 @@ A Utility 2.0 company:
 ## How to run the code
 
 - Add your API key to the api_secret.py file
-- Add the training documents to the "docs" folder
+- Create a folder named "docs" in the same path as your code
+- Add all the training documents to the "docs" folder
 - Install all the necessary libraries
 - Run the python notebook
 - Click on the URL that Gradio creates
 - Have fun 
 
+## How to reach me
+
+https://www.linkedin.com/in/abhishek-bhamidipati/
+
+https://abhishekcmu.wixsite.com/home
+
+https://github.com/abhamidi-1234
