@@ -18,9 +18,10 @@ A Utility 2.0 company:
 
 - Responds to customer inquiries using state-of-the-art OpenAI language models
 - 24/7 availability, ensuring customers can get assistance anytime
-- Can be made to have multilingual support, making it accessible to a global customer base
+- Has multilingual support, making it accessible to a global customer base
 - Can be integrated with existing customer support systems for a seamless user experience.
 - Can be extended to be a wind turbine maintenance support chatbot
+- Simple code, just 10 lines for the custom training and 10 lines for the chatbot UI
 
 ## Benefits of Chatbot
 
@@ -71,5 +72,12 @@ A Utility 2.0 company:
 - Translate all the training data into other languages like Spanish, so that the chatbot can converse in other languages
 - Add maintainance manuals to training data, so that the chatbot can aid in troubleshooting wind turbines or other machinery
 
+## How to run the code
 
+- Add your API key to the api_secret.py file
+- Add the training documents to the "docs" folder
+- Install all the necessary libraries
+- Run the python notebook
+- Click on the URL that Gradio creates
+- Have fun 
 
